@@ -21,4 +21,4 @@ endif()
 add_subdirectory(shared)
 add_subdirectory(SpellCheckerDll)
 add_subdirectory(SpellChecker)
-#add_subdirectory(tests) // TODO
+#add_subdirectory(tests)
